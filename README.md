@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gibaluporini/gibaluporini/blob/main/banner-giba-luporini.png" alt="Banner Giba Luporini" width="800px" />
+  <img src="https://github.com/gibaluporini/gibaluporini/blob/main/imagem01.png" alt="Banner Giba Luporini" width="800px" />
 </p>
 
 
