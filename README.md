@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Giba Luporini
 
-<!--
-**gibaluporini/gibaluporini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, estudando **Python** e **Inteligência Artificial** com foco em projetos práticos e aprendizado contínuo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que estou aprendendo:
+- Lógica de programação em Python
+- Estruturas de dados e manipulação de arquivos
+- Automação e introdução ao Machine Learning
+- Git, GitHub e controle de versão
+
+---
+
+## 🛠️ Tecnologias que uso:
+<img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/-JSON-333?style=for-the-badge&logo=json" />
+<img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github" />
+
+---
+
+## 📌 Projetos em destaque
+- [Sistema de Cursos em Python](https://github.com/gibaluporini/sistema-de-cursos-python)  
+Sistema com menu interativo, salvamento em JSON, busca, remoção e persistência de dados.
+
+---
+
+## ✉️ Contato
+Você pode me encontrar por aqui:  
+[github.com/gibaluporini](https://github.com/gibaluporini)
+
+---
+
+> “Estudo um pouco todos os dias. Devagar, mas sempre.”  
