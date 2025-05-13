@@ -1,4 +1,5 @@
-<img src="[https://raw.githubusercontent.com/gibaluporini/gibaluporini/main/banner-giba-luporini.png](https://github.com/gibaluporini/gibaluporini/blob/main/imagem01.png)" alt="Banner Giba Luporini" width="100%" />
+<img src="https://github.com/gibaluporini/gibaluporini/blob/main/imagem01.png" alt="Banner Giba Luporini" width="100%" />
+
 
 # 👋 Hi! I'm Giba Luporini
 
