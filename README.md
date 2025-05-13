@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/gibaluporini/gibaluporini/main/banner-giba-luporini.png" alt="Banner Giba Luporini" width="100%" />
+
+
 # 👋 Hi! I'm Giba Luporini
 
 Aspiring developer currently focused on learning **Python** and **Artificial Intelligence** through practical and consistent study.
